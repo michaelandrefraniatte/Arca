@@ -46,3 +46,14 @@ C:\Users\micha\Documents\Perso\tool\Arca\Src\Arca\Arca\obj\Release\Arca.csproj.C
 C:\Users\micha\Documents\Perso\tool\Arca\Src\Arca\Arca\obj\Release\Arca.csproj.CopyComplete
 C:\Users\micha\Documents\Perso\tool\Arca\Src\Arca\Arca\obj\Release\Arca.exe
 C:\Users\micha\Documents\Perso\tool\Arca\Src\Arca\Arca\obj\Release\Arca.pdb
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\bin\Release\Arca.exe.config
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\bin\Release\Arca.exe
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\bin\Release\Arca.pdb
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.Form1.resources
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.Properties.Resources.resources
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.csproj.CopyComplete
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.exe
+C:\Users\micha\Documents\github\ArcaOfficial\Src\Arca\Arca\obj\Release\Arca.pdb
