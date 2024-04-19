@@ -1,0 +1,12 @@
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\bin\Release\AudioVisualizerVerticalBarre.exe.config
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\bin\Release\AudioVisualizerVerticalBarre.exe
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\bin\Release\AudioVisualizerVerticalBarre.pdb
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.Form1.resources
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.csproj.CopyComplete
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.exe
+C:\Users\mic\Documents\GitHub\av-libraries\Src\AudioVisualizerVerticalBarre\AudioVisualizerVerticalBarre\obj\Release\AudioVisualizerVerticalBarre.pdb
